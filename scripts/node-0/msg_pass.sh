@@ -1,1 +1,0 @@
-torchrun --nproc_per_node=1 --nnodes=2 --node_rank=0 --master_addr=123.123.123.123 --master_port=1234 message_passing.py
