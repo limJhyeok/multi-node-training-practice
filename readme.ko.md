@@ -93,7 +93,7 @@ Enter total number of nodes (nnodes): 2
 Enter node rank (node_rank): 0
 Enter master node address (master_addr): 123.123.123.123
 Enter master port (master_port): 1234
-Running message_passing.py with the following settings:
+Running train_mnist.py with the following settings:
   - nproc_per_node: 1
   - nnodes: 2
   - node_rank: 0
